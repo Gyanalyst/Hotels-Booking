@@ -48,8 +48,9 @@ In recent years, City Hotel and Resort Hotel have seen high cancellation rates. 
 # Contact:
 
 **LinkedIn** : https://www.linkedin.com/in/gyan-ashish/
+
 **Email** : gyanashish753@gmail.com
 
 Thank you!
 
-Thank you!
+
