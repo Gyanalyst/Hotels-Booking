@@ -19,29 +19,29 @@ In recent years, City Hotel and Resort Hotel have seen high cancellation rates. 
 
 # Recommendations:
 
-1. Pricing Strategies:
+**1. Pricing Strategies:**
 
 • Implement dynamic pricing models that adjust rates during high-cancellation periods like August and January. Consider offering incentives or discounts during these months to mitigate cancellations.
 
 • Conduct market research to ascertain competitive pricing relative to City and Resort Hotels. Leverage periods where City Hotel rates are lower to attract more bookings.
 
-2. Targeted Marketing and Engagement:
+**2. Targeted Marketing and Engagement:**
 
 • Focus marketing efforts in Portugal to understand customer behavior leading to high cancellations. Tailor promotions or initiatives to address concerns specific to this region.
 
 • Create targeted campaigns emphasizing direct booking advantages, aiming to increase the share of direct bookings and reduce reliance on intermediaries.
 
-3. Peak Period Optimization:
+**3. Peak Period Optimization:**
 
 • Develop packages or experiences unique to Resort Hotels during weekends and holidays when rates tend to rise. This can attract guests despite the higher prices.
 
 • Leverage data insights to strategize during peak months, ensuring optimal occupancy while minimizing cancellations through tailored offerings or loyalty programs.
 
-4. Customer Relationship Enhancement:
+**4. Customer Relationship Enhancement:**
 
 • Improve customer engagement and service by implementing flexible cancellation policies, offering additional benefits for direct bookings, or providing personalized experiences to encourage loyalty.
 
-5. Continuous Data Analysis:
+**5. Continuous Data Analysis:**
 
 • Establish an ongoing analysis process to monitor the impact of implemented strategies. Continuously refine approaches based on updated insights and customer feedback.
 
